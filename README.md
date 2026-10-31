@@ -1,7 +1,15 @@
 # Hi, I'm Naymon Nafi Supto 👋
 
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Naymon%20Nafi%20Supto&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer&descAlignY=58&descSize=18)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C5364&center=true&vCenter=true&width=480&lines=CSE+Student+%40+UITS;Aspiring+Full-Stack+Developer;Building+React+%26+FastAPI+apps;Learning+C%2C+C%2B%2B+%26+Java)](https://github.com/Supto71)
+
+</div>
+
 CSE student at the University of Information Technology and Sciences (UITS), Bangladesh.
-Aspiring Full-Stack Developer, building real projects and learning something new every day.
+Building real projects and learning something new every day.
 
 ## 🚀 Featured Projects
 
