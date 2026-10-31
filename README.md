@@ -59,3 +59,5 @@ Building real projects and learning something new every day.
 - 🌐 Portfolio: [naymon-nafi-supto](https://supto71.github.io/naymon-nafi-supto.github.io/)
 - 💼 LinkedIn: [Naymon Nafi Supto](https://www.linkedin.com/in/naymon-nafi-supto-202b543b6/)
 - 📧 Email: mdsupto718@gmail.com
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer)
